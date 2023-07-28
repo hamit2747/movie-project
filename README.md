@@ -1,3 +1,5 @@
+![Spiderman-Movie-Project](spiderman-project.gif)
+
 # movies-project
 
 # USED TECHNOLOGİES
